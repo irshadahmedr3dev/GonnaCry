@@ -13,7 +13,7 @@ This project is OpenSource, feel free to use, study and/or send pull request.
 [![Travis branch](https://img.shields.io/github/stars/tarcisio-marinho/GonnaCry.svg)](https://github.com/tarcisio-marinho/GonnaCry/stargazers)
     
 -------------
-
+....
 **Ransomware Impact on industry**
 
 https://medium.com/@tarcisioma/how-can-a-malware-encrypt-a-company-existence-c7ed584f66b3
